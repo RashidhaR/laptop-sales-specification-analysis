@@ -2,18 +2,18 @@
 
 ## 📊 Project Overview
 
-An interactive Power BI dashboard designed to analyze laptop pricing, specifications, hardware components, operating systems, and product performance.
+An interactive Power BI dashboard designed to analyze laptop products, pricing, hardware specifications, storage, operating systems, and product-level performance.
 
-The dashboard provides interactive analysis of laptop products based on price, CPU, GPU, storage, RAM, display features, and other technical specifications.
+The dashboard provides interactive analysis of laptop prices and specifications using multiple visualizations and filters.
 
 ## 📈 Dashboard Pages
 
 ### 1. Laptop Product Analysis
 
 - Laptop price comparison by product
-- Laptop specification analysis
-- Screen size and dimensions
-- Laptop weight analysis
+- Product-level analysis
+- Laptop screen dimensions
+- Laptop weight and screen size analysis
 - Operating system distribution
 - Primary storage analysis
 - Product search and filtering
@@ -21,23 +21,39 @@ The dashboard provides interactive analysis of laptop products based on price, C
 ### 2. Hardware & Specification Analysis
 
 - GPU model and price analysis
-- CPU brand comparison
+- CPU brand and product analysis
 - CPU model and price analysis
-- GPU company analysis
-- Screen and hardware comparison
+- Screen and GPU analysis
+- CPU and GPU company analysis
 - Touchscreen analysis
 - Retina display analysis
-- Primary and secondary storage analysis
+- Primary storage analysis
+- Secondary storage analysis
+- Interactive product filtering
 
 ### 3. Price & Configuration Analysis
 
 - Total laptop count
-- Total RAM analysis
 - Laptop price analysis
-- Laptop price decomposition by product and hardware specifications
+- RAM analysis
+- Price decomposition by product and hardware specifications
 - Secondary storage type and price analysis
 - CPU model filtering
-- Interactive product analysis
+- Dimension-based filtering
+- Product-level analysis
+
+## 🔍 Key Analysis Areas
+
+- Laptop pricing
+- Product comparison
+- CPU analysis
+- GPU analysis
+- RAM analysis
+- Primary and secondary storage
+- Operating system analysis
+- Screen specifications
+- Touchscreen and display features
+- Product-level analysis
 
 ## 🛠️ Tools & Technologies
 
@@ -49,18 +65,18 @@ The dashboard provides interactive analysis of laptop products based on price, C
 - Data Visualization
 - Interactive Dashboard Design
 
-## 🔍 Key Analysis Areas
+## 📊 Power BI Visualizations
 
-- Laptop pricing
-- Product comparison
-- CPU analysis
-- GPU analysis
-- RAM analysis
-- Storage analysis
-- Operating system analysis
-- Display features
-- Laptop specifications
-- Product-level analysis
+- Column Charts
+- Bar Charts
+- Pie Charts
+- Donut Charts
+- Treemaps
+- Line Charts
+- Cards
+- Multi-row Cards
+- Slicers
+- Decomposition Tree
 
 ## 🎯 Key Skills Demonstrated
 
@@ -70,17 +86,18 @@ The dashboard provides interactive analysis of laptop products based on price, C
 - Data Visualization
 - KPI Development
 - Interactive Dashboard Development
-- Product Performance Analysis
+- Product Analysis
+- Pricing Analysis
 - Technical Specification Analysis
 - Business Data Interpretation
 
 ## 📁 Dashboard Structure
 
-The Power BI report contains three analytical pages covering:
+The Power BI report contains three analytical pages:
 
-1. Product and specification analysis
-2. CPU and GPU hardware analysis
-3. Pricing and configuration analysis
+1. Laptop Product Analysis
+2. Hardware & Specification Analysis
+3. Price & Configuration Analysis
 
 ## 👩‍💻 Author
 
